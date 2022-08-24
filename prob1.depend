@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650218978 source:d:\mayyar\prob1\matrix.cpp
+
+1650219909 source:d:\mayyar\prob1\main.cpp
+	<iostream>
+	"matrix.h"
+	"matrix.cpp"
+
+1650220377 d:\mayyar\prob1\matrix.h
+	<iostream>
+
+1650218978 d:\mayyar\prob1\matrix.cpp
+
